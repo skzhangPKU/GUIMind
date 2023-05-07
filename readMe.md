@@ -37,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
    cd Explorer
    python explorer.py
    ```
-3. Use the recorded data as input for the Fidelity Checker module to evaluate whether app activity violates the Data Minimization Principle. Note that Fidelity Checker has slight variations in each run. The log of Fidelity Checker’s results in our paper is shown in `gb2.log`. 
+3. Use the recorded data as input for the Fidelity Checker module to evaluate whether app activity violates the Data Minimization Principle. **Please note that** Fidelity Checker has slight variations in each run. The log of Fidelity Checker’s results in our paper is shown in `gb2.log`. 
    ```sh
    cd FidelityChecker
    python fidelity_checker.py
