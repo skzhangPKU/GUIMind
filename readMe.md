@@ -3,7 +3,8 @@
 GUIMind is a novel automated tool to detect violations of the Data Minimization Principle. The tool consists of two modules: Explorer and Fidelity Checker. Explorer utilizes a reinforcement learning model to explore app activities and monitor access to sensitive APIs that require sensitive permissions. Fidelity Checker uses the existing tool [APICOG](https://ieeexplore.ieee.org/abstract/document/9251054) to check whether an activity collects more sensitive permissions than the users expect.
 
 #### Framework:
-<img src="[https://github.com/AnonymousSE202X/GUIMind/blob/main/guimind_architecture.png](https://github.com/AnonymousSE202X/GUIMind/blob/main/guimind_architecture.png)" width="500">
+<div align="center">
+ <img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/guimind_architecture.png" width="500">
 </div>
 
 ## Getting Started
