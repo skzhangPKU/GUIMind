@@ -4,7 +4,7 @@ GUIMind is a novel automated tool to detect violations of the Data Minimization 
 
 #### Framework:
 <div align="center">
- <img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/guimind_architecture.png" width="500">
+ <img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/guimind_architecture.png" width="800">
 </div>
 
 ## Getting Started
