@@ -2,13 +2,16 @@
 ---
 GUIMind is a novel automated tool to detect violations of the Data Minimization Principle. The tool consists of two modules: Explorer and Fidelity Checker. Explorer utilizes a reinforcement learning model to explore app activities and monitor access to sensitive APIs that require sensitive permissions. Fidelity Checker uses the existing tool [APICOG](https://ieeexplore.ieee.org/abstract/document/9251054) to check whether an activity collects more sensitive permissions than the users expect.
 
-
-## Requirements
+## Getting Started
 ---
-* A rooted mobile device (e.g., Google Pixel 5)
-* Python 3
-* Pytorch
-* NumPy
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+---
+* A rooted Google Pixel 5 device
+* Frida version corresponding to your device if not a Google Pixel 5 device
+* Python 3.x
+* Required Python packages (see requirements.txt)
 
 ## Installation
 ---
