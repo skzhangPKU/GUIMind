@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Run the Explorer module to monitor and record app activity and sensitive API access.
    ```sh
    cd Explorer
-   python train_main.py
+   python explorer.py
    ```
 3. Use the recorded data as input for the Fidelity Checker module to evaluate whether app activity violates the Data Minimization Principle.
    ```sh
