@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ---
 * A rooted Google Pixel 5 device
 * Frida version corresponding to your device if not a Google Pixel 5 device
-* Python 3.x
+* Python >= 3.7.3
 * Required Python packages (see requirements.txt)
 
 ## Installation
