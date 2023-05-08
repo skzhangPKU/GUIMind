@@ -21,3 +21,4 @@ pytesseract==0.3.8
 simplejson==3.17.6
 rich==13.3.5
 Levenshtein==0.21.0
+wordninja==2.0.0
