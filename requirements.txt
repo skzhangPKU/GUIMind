@@ -19,4 +19,4 @@ nltk==3.7
 pexpect==4.8.0
 pytesseract==0.3.8
 simplejson==3.17.6
-
+rich==13.3.5
