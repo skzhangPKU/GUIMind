@@ -51,7 +51,8 @@ Explorer will output the contents like the Figure below when it runs successfull
 <img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/success_example.png" width="800">
 </div>
 
-Fidelity Checker will output the contents like the Figure below when it runs successfully.
+The output of Fidelity Checker is shown in the figure below.
+
 
 ## License
 This project is licensed under the MIT License.
