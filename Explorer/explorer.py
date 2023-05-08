@@ -81,6 +81,8 @@ def main():
     flag_con = True
     try:
         for i,application in enumerate(apks):
+            if not application.endswith(".apk"):
+                continue
             # if flag_con and application != 'apps_unexplore\\360省电王_7.3.3_Apkpure.apk':
             #     continue
             # else:
