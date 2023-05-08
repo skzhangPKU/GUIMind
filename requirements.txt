@@ -12,7 +12,6 @@ sentence_transformers==2.2.2
 torch==1.7.1
 uiautomator2==2.16.8
 cliffs_delta==1.0.0
-en_core_web_sm==2.0.0
 Faker==15.3.1
 gensim==4.2.0
 jieba==0.42.1
