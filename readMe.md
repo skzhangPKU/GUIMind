@@ -53,6 +53,9 @@ Explorer will output the contents like the Figure below when it runs successfull
 
 The output of Fidelity Checker is shown in the figure below.
 
+<div align="center">
+<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/fidelity_example.png" width="800">
+</div>
 
 ## License
 This project is licensed under the MIT License.
