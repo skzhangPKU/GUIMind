@@ -48,13 +48,13 @@ These instructions will get you a copy of the project up and running on your loc
 Explorer will output the contents like the Figure below when it runs successfully.
 
 <div align="center">
-<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/success_example.png" width="800">
+<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/success_example.png" width="600">
 </div>
 
 The output of Fidelity Checker is shown in the figure below.
 
 <div align="center">
-<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/fidelity_example.png" width="800">
+<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/fidelity_example.png" width="600">
 </div>
 
 ## License
