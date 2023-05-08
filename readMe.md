@@ -47,7 +47,7 @@ These instructions will get you a copy of the project up and running on your loc
 Explorer will output the contents like the Figure below when it runs successfully.
 
 <div align="center">
-<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/success_example.png" width="500">
+<img src="https://github.com/AnonymousSE202X/GUIMind/blob/main/success_example.png" width="800">
 </div>
 
 ## License
